@@ -30,3 +30,7 @@ C:\Users\brenn\source\repos\CRUDops\CRUDops\obj\Debug\net8.0\refint\CRUDops.dll
 C:\Users\brenn\source\repos\CRUDops\CRUDops\obj\Debug\net8.0\CRUDops.pdb
 C:\Users\brenn\source\repos\CRUDops\CRUDops\obj\Debug\net8.0\CRUDops.genruntimeconfig.cache
 C:\Users\brenn\source\repos\CRUDops\CRUDops\obj\Debug\net8.0\ref\CRUDops.dll
+C:\Users\brenn\source\repos\CRUDops\CRUDops\obj\Debug\net8.0\CRUDops.sourcelink.json
+C:\Users\brenn\source\repos\CRUDops\CRUDops\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\brenn\source\repos\CRUDops\CRUDops\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\brenn\source\repos\CRUDops\CRUDops\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
