@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f81705c5b82a689731f8bc680ed8b78a9224b97d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

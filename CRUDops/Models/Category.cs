@@ -1,4 +1,6 @@
-﻿namespace CRUDops.Models
+﻿using System.Text.Json.Serialization;
+
+namespace CRUDops.Models
 {
     public class Category
     {
@@ -6,6 +8,7 @@
 
         public string Name { get; set; }
 
-        public virtual List<Category> Categories { get; set; }
+        public virtual List<Product> Products { get; set; }
+
     }
 }
