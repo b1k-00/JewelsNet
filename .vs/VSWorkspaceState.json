@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CRUDops"
+    "\\CRUDops",
+    "\\CRUDops\\Models"
   ],
+  "SelectedNode": "\\CRUDops\\Models\\ModelBuilderExtensions.cs",
   "PreviewInSolutionExplorer": false
 }
